@@ -1,0 +1,23 @@
+body {
+    height: 100vh;
+    padding: 2vh;
+}
+
+main {
+    margin-top: 1%;
+    padding: 1%;
+    height: 70%;
+}
+
+footer {
+    height: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    width: 98%;
+    align-content: center;
+}
+
+#base {
+    height: 96vh;
+    padding: 1%;
+}
