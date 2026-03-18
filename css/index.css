@@ -28,9 +28,8 @@ footer {
     min-height: 96vh;
     padding: 1%;
 }
-
 .bg-theme-1{
-    background-color: #00B1F6;
+    background: linear-gradient(to bottom, #00B1F6, #0098D4);
 }
 
 .bg-theme-2{
